@@ -1,2 +1,2 @@
 # foodie-map-backend
-A map where you can save your favorite restaurants as bookmarks - Backend
+A map where you can save your favorite restaurants as bookmarks - Back-end
